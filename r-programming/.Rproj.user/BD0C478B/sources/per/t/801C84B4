@@ -5,19 +5,19 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "446978807",
+    "hash" : "413873068",
     "id" : "801C84B4",
-    "lastKnownWriteTime" : 1510896030,
-    "last_content_update" : 1510896030718,
+    "lastKnownWriteTime" : 1510898128,
+    "last_content_update" : 1510898128976,
     "path" : "~/Datascience/r-programming/pollutantmean.R",
     "project_path" : "pollutantmean.R",
     "properties" : {
-        "cursorPosition" : "8,27",
-        "scrollLine" : "0",
+        "cursorPosition" : "4,19",
+        "scrollLine" : "1",
         "tempName" : "Untitled1"
     },
     "relative_order" : 1,
-    "source_on_save" : false,
+    "source_on_save" : true,
     "source_window" : "",
     "type" : "r_source"
 }
