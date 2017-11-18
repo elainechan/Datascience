@@ -1,0 +1,54 @@
+body {
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-family: "Roboto Mono", monospace;    
+    font-size: 18pt;
+}
+
+h1 {
+    font-size: 36pt;
+}
+
+h2 {
+    font-size: 24pt;
+}
+
+li {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav ul {
+    list-style-position: inside;
+    margin: 0;
+    background-color: #DDDDDD;
+}
+
+nav li a {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20pt;
+    padding: 20px 36px;
+}
+
+nav li a:hover {
+    background-color: #AAAAAA;
+}
+
+li a:link {
+color: #200088;
+}
+
+li a:hover {
+    color: #2000F0;
+}
+
+li a:visited {
+    color: #101010;
+}
