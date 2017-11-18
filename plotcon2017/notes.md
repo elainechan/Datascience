@@ -2,7 +2,7 @@
 
 ### Day One
 * glue between statistical models and rendering of visualization
-* `ploty_json`
+* `ploty_json` - display data schema
 * Plotly builds on htmlwidgets
 * Traces are not too scalable
 * Viridis color palette - popular in Matplotlib
@@ -23,6 +23,12 @@
 * [Plotly.js workshop](https://github.com/plotly/plotcon-2017-plotlyjs-workshop)
 * [Plotly for R workshop](https://github.com/cpsievert/plotcon17)
 * [Data visualization for social science with ggplot2](http://socviz.co/)
+* [Mapbox](https://www.mapbox.com/developers/)
+* [Leaflet](http://leafletjs.com/reference-1.2.0.html)
+* Crosstalk - allow web-only access without R
+* Shiny
+* htmlwidgets
+* [Shiny Proxy](https://www.shinyproxy.io/) - for deploying in enterprise context
 
 ## Ideas
 * [Mass Shootings](http://flowingdata.com/2017/10/06/in-2017-no-more-than-five-days-without-a-mass-shooting/)
