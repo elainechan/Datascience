@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3097910777",
+    "hash" : "2130044756",
     "id" : "2D071792",
-    "lastKnownWriteTime" : 1510898658,
-    "last_content_update" : 1510898658488,
+    "lastKnownWriteTime" : 1510982121,
+    "last_content_update" : 1510982121546,
     "path" : "~/Datascience/r-programming/complete.R",
     "project_path" : "complete.R",
     "properties" : {
-        "cursorPosition" : "5,1",
+        "cursorPosition" : "10,51",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },

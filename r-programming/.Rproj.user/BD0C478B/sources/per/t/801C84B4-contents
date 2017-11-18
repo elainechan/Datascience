@@ -1,6 +1,6 @@
 pollutantmean <- function(directory, pollutant, id = 1:332) {
     fset <- getdata(directory)
-    rangeset <- subset(fullset, fullset['ID'] == id)
+    rangeset <- subset(fset, fset['ID'] == id)
     pset <- rangeset[, pollutant]
     pmean <- mean(pset, na.rm = TRUE)
     return(pmean)
