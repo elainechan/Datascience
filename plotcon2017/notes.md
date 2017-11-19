@@ -12,6 +12,29 @@
 * Linking to Shiny allows more flexibility and feature options
 * `ggplotly`
 
+### Day Two
+* `geomsf` probably replacing `ggmap` but it's `sf` for now
+* Mollweide projection
+* `leaflet()` `plot_mapbox()`
+* `tempdir()`
+    * represents dir of the current R session
+    * contains files of printed/viewed plots, etc.
+```r
+withr::with_dir('~', {
+    htmltools::save_html(tags, file = 'leaflet-your-turn.html, libdir = #
+})
+browseURL('~/leaflet-your-turn.html')
+htmlwidgets::saveWidget(p, 'quakes-your-turn.html', selfcontained = TRUE)
+# 1 plot is fine selfcontained, but larger, do differently
+# use `unlink` to delete files
+```
+* [Linking selection](https://github.com/cpsievert/apps/blob/master/shiny/apps/plotlyLinkedBrush/app.R) - linking selection between two plots with `"plotly_selected"` on line 43-44
+* `data(package = 'plotly')` - to find sample data shipped with each package
+* `reactive()` to make code more performant
+* `gather()` - reshape wide format to long format
+* `brower()` - for debugging
+* `plotly_example('shiny', '[example-name]')`
+
 ## Books
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Advanced R](http://adv-r.had.co.nz/)
@@ -29,6 +52,9 @@
 * Shiny
 * htmlwidgets
 * [Shiny Proxy](https://www.shinyproxy.io/) - for deploying in enterprise context
+* [Shiny container for serving app](http://lukesingham.com/shiny-containers-with-shinyproxy/)
+* [Spatial Reference](http://www.spatialreference.org/ref/)
+* [Dash](https://plot.ly/dash/)
 
 ## Ideas
 * [Mass Shootings](http://flowingdata.com/2017/10/06/in-2017-no-more-than-five-days-without-a-mass-shooting/)
@@ -36,4 +62,9 @@
 
 ## Data Sources
 * [Flowing Data](http://flowingdata.com/category/statistics/data-sources/)
+
+## Dash instructor
+* charley@plot.ly
+* chris@plot.ly
+
 
