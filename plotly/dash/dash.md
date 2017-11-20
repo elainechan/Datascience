@@ -11,3 +11,6 @@
     }
 }
 ```
+
+## Resources
+* [Charting Cheatsheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
