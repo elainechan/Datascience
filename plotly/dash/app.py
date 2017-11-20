@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # reference: "https://plot.ly/dash/getting-started"
+# run on command line: $ python3 app.py
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
