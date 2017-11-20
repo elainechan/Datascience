@@ -7,8 +7,11 @@
     var WIDTH_IN_PERCENT_OF_PARENT = 60,
         HEIGHT_IN_PERCENT_OF_PARENT = 80;
     
+    // headline
+    d3.select('body').append('h1').html("Robert and Jane's Arranged Marriage");
+    d3.select('body').append('h2').html("A happy destiny?");
+    
     var gd3 = d3.select('body')
-        .append('h1').html("Robert and Jane's Arranged Marriage")
         .append('div')
         .style({
             width: WIDTH_IN_PERCENT_OF_PARENT + '%',
