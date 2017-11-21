@@ -14,6 +14,12 @@ app.layout = html.Div(children=[
         A Happy Ending?
     '''),
 
+    html.Div([
+        dcc.Markdown(children='''
+        [Made with Dash](https://plot.ly/dash/)
+    ''')
+    ]),
+
     dcc.Graph(
         id='example-graph',
         figure={

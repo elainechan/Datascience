@@ -14,3 +14,4 @@
 
 ## Resources
 * [Charting Cheatsheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
+* [Figure Factory](https://github.com/plotly/plotly.py/tree/master/plotly/figure_factory)
