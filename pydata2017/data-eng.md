@@ -71,5 +71,7 @@
 * [Arrow](https://arrow.apache.org/)
 * [ORC](https://orc.apache.org/docs/types.html)
 
-#### Warehouse
+#### Warehouse / Clusters
 * [Hive](https://hive.apache.org/)
+* [Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
+* [Kubernetes](https://kubernetes.io/)

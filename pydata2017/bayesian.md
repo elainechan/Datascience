@@ -19,7 +19,6 @@
 * cosine similarity
 * exemplar SVM
 * siamese neural network
-* Boris Mizhen
 
 ## ML Workflow
 * Preprocess data
@@ -38,15 +37,17 @@
 ## Articles / Presentations
 * [Eric Ma's Blog](http://www.ericmjl.com/blog/)
 * [Demystifying Bayesian Deep Learning](https://github.com/ericmjl/bayesian-deep-learning-demystified)
+* [Deep Learning vs Bayesian](https://medium.com/@sachin.abeywardana/deep-learning-vs-bayesian-7f8606e1e78)
+
+## Tutorials / Series
 * [Bayesian Analysis Recipes](https://github.com/ericmjl/bayesian-analysis-recipes)
 * [Network Analysis Made Simple](https://github.com/ericmjl/Network-Analysis-Made-Simple)
 * [Frequentism and Bayesianism](http://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/)
-
-## Other Articles
-* [Quantitative Economics (Thomas Sargent)](https://lectures.quantecon.org/)
-* [Deep Learning vs Bayesian](https://medium.com/@sachin.abeywardana/deep-learning-vs-bayesian-7f8606e1e78)
 * [Stanford Deep Learning tutorial](http://ufldl.stanford.edu/tutorial/)
 * [Stanford Theories of Deep Learning slides](https://stats385.github.io/lecture_slides)
+
+## Bonus Tutorial
+* [Quantitative Economics (Thomas Sargent)](https://lectures.quantecon.org/)
 
 ## Videos
 * [Bayesian Inference and MCMC](https://www.youtube.com/watch?v=qQFF4tPgeWI)
@@ -57,8 +58,6 @@
 ## Tools
 * [Stan](http://mc-stan.org/users/documentation/index.html)
 * [Edward](http://edwardlib.org/)
-* Borg
-* Kubernetes
 * [PyMC3](http://docs.pymc.io/)
 
 ### Datasets
