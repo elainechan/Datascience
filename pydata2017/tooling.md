@@ -11,9 +11,46 @@
 * [Deep dive into all options](https://wilsonmar.github.io/python-install/)
 * [Conda installation guide](https://conda.io/docs/user-guide/install/index.html#system-requirements)
 
+## Matplotlib
+* First line, one of these three:
+    * `%matplotlib inline` - static
+    * `%matplotlib notebook` - interactive
+    * `%matplotlib ipympl` - for Jupyter Lab JavaScript frontend
+* Then `import matplotlib.pyplot as plt`
+## Pandas
+### Indexing and Reading
+* `pd.read_*` - CSV, Parquet, JSON, etc.
+* `.index`
+* `.columns`
+* `.dtypes`
+* `.values`
+* `__getitem__`
+* `.loc[]`
+* `.iloc[]`
+* boolean indexing - `flights.loc[flights.cancelled == 1]`
+* `drop()`
+### Alignment
+* `.isna()`
+* `.dropna()`
+* `union()`
+* `reindex()`
+* `.merge()`
+* `.concat()`
+### Iterators, Groupby
+* `agg()`
+* `groupby()`
+* `transform()`
+### Tidy Data
+* Definition
+    1. Each variable forms a column
+    2. Each observation forms a row
+* `melt()`
+* `pivot_table()`
 ## R
 * R notebook
 * Rmarkdown
+* [Resolving R and Homebrew conflict](http://azaleasays.com/2014/08/25/homebrew-warnings-about-unbrewed-dylibs-installed-by-r/)
+* [R and Homebrew on Stackoverflow](https://apple.stackexchange.com/questions/125853/homebrew-doctor-warnings-requesting-library-deletions)
 * [Chris Roach talk](https://github.com/croach/pydata_nyc_2017)
 * [Chris Roach presentation slides](https://github.com/croach/pydata_nyc_2017)
 * [Regional smoothing in R](https://pudding.cool/process/regional_smoothing/)
@@ -65,5 +102,6 @@
     * image labeling
 * [bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html#gallery)
 
-## Shell
+## Shell and Command Line
 * data pipelines using Python to call shell and [dgsh](https://github.com/dspinellis/dgsh)
+* [iTerm color schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
