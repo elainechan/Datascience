@@ -28,14 +28,38 @@
 * Train model
 * Deploy model
 
-## Resources
-* [Deep learning vs Bayesian](https://medium.com/@sachin.abeywardana/deep-learning-vs-bayesian-7f8606e1e78)
-* [Stanford deep learning tutorial](http://ufldl.stanford.edu/tutorial/)
+## Books
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Bayesian Learning for Neural Networks](https://link.springer.com/book/10.1007/978-1-4612-0745-0)
+* [Think Bayes](http://www.greenteapress.com/thinkbayes/html/index.html)
+    * [Think Bayes Notebooks version](https://github.com/rlabbe/ThinkBayes)
+    * [Think Bayes code](https://github.com/AllenDowney/ThinkBayes2/tree/master/code)
+
+## Articles / Presentations
+* [Eric Ma's Blog](http://www.ericmjl.com/blog/)
+* [Demystifying Bayesian Deep Learning](https://github.com/ericmjl/bayesian-deep-learning-demystified)
+* [Bayesian Analysis Recipes](https://github.com/ericmjl/bayesian-analysis-recipes)
+* [Network Analysis Made Simple](https://github.com/ericmjl/Network-Analysis-Made-Simple)
+* [Frequentism and Bayesianism](http://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/)
+
+## Other Articles
+* [Quantitative Economics (Thomas Sargent)](https://lectures.quantecon.org/)
+* [Deep Learning vs Bayesian](https://medium.com/@sachin.abeywardana/deep-learning-vs-bayesian-7f8606e1e78)
+* [Stanford Deep Learning tutorial](http://ufldl.stanford.edu/tutorial/)
 * [Stanford Theories of Deep Learning slides](https://stats385.github.io/lecture_slides)
+
+## Videos
+* [Bayesian Inference and MCMC](https://www.youtube.com/watch?v=qQFF4tPgeWI)
+* [Stan Hands-on](https://www.youtube.com/watch?v=6NXRCtWQNMg)
+* [Bayesian Analysis Using Python](http://pyvideo.org/scipy-2014/bayesian-statistical-analysis-using-python-part-1.html)
+* [Bayesian Analysis Using Python 2](http://pyvideo.org/scipy-2014/bayesian-statistical-analysis-using-python-part-0.html)
+
+## Tools
+* [Stan](http://mc-stan.org/users/documentation/index.html)
 * [Edward](http://edwardlib.org/)
 * Borg
 * Kubernetes
-* pymc
+* [PyMC3](http://docs.pymc.io/)
 
 ### Datasets
 * MNIST
