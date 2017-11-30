@@ -1,8 +1,7 @@
-## Focus
-* Bayesian
-* Monte Carlo
-* Pandas
-* Regression
+## Buzzwords
+* Hamiltoinian Monte Carlo
+* Eigenvector
+* Posterior
 
 ## Presentation
 [Bayesian Deep Learning](https://pydata.org/nyc2017/schedule/presentation/39/)
@@ -65,4 +64,12 @@
 * word2vec
 * GloVe
 
+## Bayesian Statistics From Scratch
+* [Slides](https://github.com/jcbozonier/research/blob/master/notebooks/PyDataNYC2017.ipynb)
+* [Repo](https://github.com/jcbozonier/research/tree/master/notebooks)
+* [Data Bozo](http://www.databozo.com/)
+
+## Stan
+* [Slides](http://mc-stan.org/workshops/pydataNYC2017/pydata-nyc-2017.pdf)
+* Stan: writing code that differentiates a program (mathematically)
  

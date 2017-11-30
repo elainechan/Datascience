@@ -87,3 +87,8 @@ There are many ways you might want to specify which subset you want to select:
 * taking many values, representing them by a single value
 * only use `apply` when `agg` doesn't work
 * do as much outside of `apply` as possible
+
+* missing data
+* one-dimensional basic summary statistics - look at one array 
+* how many unique values
+* frequency, mean, etc.
