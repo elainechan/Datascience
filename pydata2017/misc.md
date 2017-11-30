@@ -22,3 +22,9 @@
 
 ## Workflow
 * [dgsh](https://www.spinellis.gr/sw/dgsh/)
+
+## Serverless
+* [Face recognition with Twilio and Serverless Framework on AWS](https://github.com/skarlekar/faces)
+
+## Deep Learning
+* [Deep Learning from Scratch (Seth Weidman)](https://github.com/SethHWeidman/ODSC_Neural_Nets_11-04-17)

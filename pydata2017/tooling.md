@@ -17,35 +17,6 @@
     * `%matplotlib notebook` - interactive
     * `%matplotlib ipympl` - for Jupyter Lab JavaScript frontend
 * Then `import matplotlib.pyplot as plt`
-## Pandas
-### Indexing and Reading
-* `pd.read_*` - CSV, Parquet, JSON, etc.
-* `.index`
-* `.columns`
-* `.dtypes`
-* `.values`
-* `__getitem__`
-* `.loc[]`
-* `.iloc[]`
-* boolean indexing - `flights.loc[flights.cancelled == 1]`
-* `drop()`
-### Alignment
-* `.isna()`
-* `.dropna()`
-* `union()`
-* `reindex()`
-* `.merge()`
-* `.concat()`
-### Iterators, Groupby
-* `agg()`
-* `groupby()`
-* `transform()`
-### Tidy Data
-* Definition
-    1. Each variable forms a column
-    2. Each observation forms a row
-* `melt()`
-* `pivot_table()`
 ## R
 * R notebook
 * Rmarkdown
