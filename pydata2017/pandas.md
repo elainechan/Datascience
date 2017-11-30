@@ -3,6 +3,7 @@
 ## Resources
 * [How to Learn Pandas (Ted Petrou)](https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955)
 * [Idiomatic Pandas (Ted Petrou)](https://github.com/tdpetrou/Learn-Pandas)
+* [Subsetting in Pandas (Ted Petrou)](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c)
 * [Pandas .head() to .tail() (Tom Auspurger)](https://github.com/TomAugspurger/pydata-nyc-ph2t)
 * [Effective Pandas series (Tom Auspurger)](https://github.com/TomAugspurger/effective-pandas)
 ## Reading
@@ -78,3 +79,11 @@ There are many ways you might want to specify which subset you want to select:
 * A view is a just a pointer to the original data.
 * A copy is a fresh new object not connected to the original.
 * check which one it is with `._is_view` for debugging
+### Vectorizing vs `apply`
+* use `apply` when there's no Series method available
+* `apply` sucks mainly because it's slow in Python
+* R `apply` works better because of R's functional nature
+### Aggregation
+* taking many values, representing them by a single value
+* only use `apply` when `agg` doesn't work
+* do as much outside of `apply` as possible

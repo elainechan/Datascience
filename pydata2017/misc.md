@@ -28,3 +28,6 @@
 
 ## Deep Learning
 * [Deep Learning from Scratch (Seth Weidman)](https://github.com/SethHWeidman/ODSC_Neural_Nets_11-04-17)
+
+## Julia
+* [Julia learning resources](https://julialang.org/learning/)
