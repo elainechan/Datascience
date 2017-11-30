@@ -64,3 +64,17 @@ There are many ways you might want to specify which subset you want to select:
     2. Each observation forms a row
 * `melt()`
 * `pivot_table()`
+
+## Idiomatic Pandas
+### Subsetting
+* `>>> method.__abs__??` - see if method calls pandas
+* a method that doesn't accept iterable [is / is not] calling pandas
+* `city1 = c1['CITY']` - Series
+* `city2 = c2[['CITY']]` - DataFrame
+### Copying
+* when to `.copy()`
+* Selecting a Series creates a view of the original, which is then modified.
+* Selecting a DataFrame creates a copy of the original.
+* A view is a just a pointer to the original data.
+* A copy is a fresh new object not connected to the original.
+* check which one it is with `._is_view` for debugging
