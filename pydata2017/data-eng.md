@@ -52,26 +52,28 @@
 * greenlet
 * eventlet
 
-#### Processing Engines
+## Tooling
+
+### Processing Engines
 * [PySpark](http://spark.apache.org/docs/2.1.0/api/python/pyspark.html)
 * [Dask](https://dask.pydata.org/en/latest/)
 * [Flink](http://training.data-artisans.com/)
 * [Streamz](https://streamz.readthedocs.io/en/latest/)
 * [Dremio](https://docs.dremio.com/)
 
-#### Databases
+### Databases
 * [Cassandra](http://cassandra.apache.org/)
 * [HBase](https://hbase.apache.org/)
 * [Kudu](https://kudu.apache.org/overview.html)
 * [Impala](https://impala.apache.org/)
 
-#### Standards
+### Standards
 * [Hadoop HDFS](https://hortonworks.com/apache/hdfs/)
 * [Parquet](https://parquet.apache.org/documentation/latest/)
 * [Arrow](https://arrow.apache.org/)
 * [ORC](https://orc.apache.org/docs/types.html)
 
-#### Warehouse / Clusters
+### Warehouse / Clusters
 * [Hive](https://hive.apache.org/)
 * [Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
 * [Kubernetes](https://kubernetes.io/)
