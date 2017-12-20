@@ -3,7 +3,8 @@
 ## Resources
 * [How to Learn Pandas (Ted Petrou)](https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955)
 * [Idiomatic Pandas (Ted Petrou)](https://github.com/tdpetrou/Learn-Pandas)
-* [Subsetting in Pandas (Ted Petrou)](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c)
+* [Subsetting in Pandas, Part 1 (Ted Petrou)](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c)
+* [Subsetting in Pandas, Part 2 (Ted Petrou)](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-39e811c81a0c)
 * [Pandas .head() to .tail() (Tom Auspurger)](https://github.com/TomAugspurger/pydata-nyc-ph2t)
 * [Effective Pandas series (Tom Auspurger)](https://github.com/TomAugspurger/effective-pandas)
 ## Reading

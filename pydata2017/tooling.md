@@ -1,5 +1,8 @@
 # Python Datascience Tooling
 
+- [Machine Learning Cheatsheet](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+- CPU is good for `if` statements, GPU + TPUs for matrix multiplications 
+
 ## Conda, Pip, and Homebrew
 * [Conda: myths and misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 * [Fixing conflicts between Anaconda and Homebrew](https://hashrocket.com/blog/posts/keep-anaconda-from-constricting-your-homebrew-installs)
@@ -36,6 +39,7 @@
 * [Plotly for Python](https://plot.ly/dash/workshop/graphing-tutorial)
 * [Dash: Shiny for Python](https://plot.ly/dash/)
 * [Polygraph repos](https://github.com/polygraph-cool)
+* [Matplotlib interactive figures (Tom Caswell)](https://github.com/tacaswell/interactive_mpl_tutorial)
 
 ## Scrollytelling
 * [Responsive scrollytelling](https://pudding.cool/process/responsive-scrollytelling/)
