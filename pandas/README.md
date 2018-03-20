@@ -1,12 +1,24 @@
 # Pandas
 
-## Resources
+## Tutorials
 * [How to Learn Pandas (Ted Petrou)](https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955)
 * [Idiomatic Pandas (Ted Petrou)](https://github.com/tdpetrou/Learn-Pandas)
 * [Subsetting in Pandas, Part 1 (Ted Petrou)](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c)
 * [Subsetting in Pandas, Part 2 (Ted Petrou)](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-39e811c81a0c)
 * [Pandas .head() to .tail() (Tom Auspurger)](https://github.com/TomAugspurger/pydata-nyc-ph2t)
 * [Effective Pandas series (Tom Auspurger)](https://github.com/TomAugspurger/effective-pandas)
+* [Julia Evans Pandas cookbook](https://github.com/jvns/pandas-cookbook)
+* [Official Pandas cookbook](https://pandas.pydata.org/pandas-docs/stable/cookbook.html)
+* [100 Pandas puzzles](https://github.com/ajcr/100-pandas-puzzles)
+* [Samora Pandas exercises](https://github.com/guipsamora/pandas_exercises)
+
+## Numpy Tutorials
+- [101 NumPy Exercises for Data Analysis](https://www.machinelearningplus.com/101-numpy-exercises-python/)
+- [Numpy 100](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
+
+## Algorithms
+- [Rosalind Algorithms](http://rosalind.info/problems/locations/)
+
 ## Reading
 * `pd.read_*` - CSV, Parquet, JSON, etc.; returns DataFrame
 ### DataFrame Components
